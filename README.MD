@@ -4,7 +4,7 @@
 <br />
 <br />
 <br />
-Cайт создано в виде MY RUBYMAINE MINI BLOG личного портфолио RubyMaine.
+Cайт создано в виде MY RUBYMAINE RubyNewsBlog личного портфолио RubyMaine.
 
 [![Docker Image](https://github.com/ciur/papermerge/actions/workflows/docker.yml/badge.svg)](https://github.com/ciur/papermerge/actions/workflows/docker.yml)
 [![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg)](#)

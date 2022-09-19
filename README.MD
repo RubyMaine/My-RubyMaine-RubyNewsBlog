@@ -13,7 +13,7 @@ Cайт создано в виде MY RUBYMAINE RubyNewsBlog личного по
 </h3>
 
 
-# MY RUBYMAINE MINI BLOG создано с помощью:
+# MY RUBYMAINE RubyNewsBlog создано с помощью:
 > **HTML 5** + **CSS 3** + **Bootstrap 5** + **JavaScript** + **CodeIgniter 4** + **Apache_2.4** + **PHP_8.0+8.1** + **MySQL_5.6** <br /> с большой любовью.
 
 
